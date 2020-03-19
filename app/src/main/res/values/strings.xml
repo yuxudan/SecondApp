@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondActivity</string>
+    <string name="Button">Change Temperate</string>
+    <string name="Input">Temperate</string>
+    <string name="Output">Consequence</string>
+    <string name="hint_txt">Input_temperate</string>
+</resources>
